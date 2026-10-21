@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kajwala Store</title>
+<style>
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #ffb6d9, #e83e8c, #c90072);
+}
+.card {
+  width: 85%;
+  max-width: 360px;
+  padding: 30px 20px;
+  text-align: center;
+  background: #fff7fb;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px #70003b44;
+}
+h1 {
+  color: #c90072;
+  font-size: 30px;
+}
+p {
+  color: #8b4768;
+}
+a {
+  display: block;
+  padding: 16px;
+  margin: 15px 0;
+  border-radius: 14px;
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+}
+.facebook {
+  background: #1877f2;
+}
+.tiktok {
+  background: #111111;
+}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Kajwala Store</h1>
+<p>تابعونا على السوشيال ميديا 💗</p>
+<a class="facebook" href="https://www.facebook.com/share/1Dwg3VkBdR/?mibextid=wwXIfr" target="_blank">Facebook</a>
+<a class="tiktok" href="https://www.tiktok.com/@kajwalastoretanta?_r=1&_t=ZS-9AhPz9gXZsy" target="_blank">TikTok</a>
+</div>
+</body>
+</html>
